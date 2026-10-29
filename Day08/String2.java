@@ -6,8 +6,6 @@
 package Day08;
 
 import java.util.Scanner;
-package interfaces;
-import java.util.Scanner;
 
 public class String2 {
     public static void main(String[] args) {

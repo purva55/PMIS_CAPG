@@ -12,8 +12,8 @@ Scanner sc = new Scanner(System.in);
 System.out.print("Enter size of array: ");
 int n = sc.nextInt();
 if (n < 2) {
-return;
 System.out.println("Array must contain at least 2 elements");
+return;
 }
 int[] arr = new int[n];
 System.out.println("Enter " + n + " elements:");
